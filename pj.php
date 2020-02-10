@@ -13,6 +13,7 @@
     echo "I love coding";
 
     //those whoes
+    echo "I love code";
     
     ?>
 </body>

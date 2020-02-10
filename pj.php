@@ -11,6 +11,9 @@
     echo "We can do this project";
     //this is example coding
     echo "I love coding";
+
+    //those whoes
+    
     ?>
 </body>
 </html>

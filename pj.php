@@ -12,6 +12,8 @@
     //this is example coding
     echo "I love coding";
     //I done this code
+    
+    echo "wai phyoe";
     ?>
 </body>
 </html>
